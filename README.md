@@ -1,3 +1,4 @@
+blog: https://blog.akquinet.de/2020/10/09/yes-rust-has-garbage-collection-and-a-fast-one/
 
 # Kotlin
 The Kotlin example is built and run using Gradle.
